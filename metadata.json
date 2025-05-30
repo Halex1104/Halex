@@ -1,0 +1,7 @@
+
+{
+  "name": "Image Studio",
+  "description": "An iOS-inspired web application for generating images using Google's Imagen model. Enter a text prompt to create unique visuals with a modern and intuitive interface.",
+  "requestFramePermissions": ["camera"],
+  "prompt": ""
+}
